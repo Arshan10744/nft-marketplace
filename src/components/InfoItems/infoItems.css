@@ -1,0 +1,23 @@
+.info-items{
+    flex-direction: column;
+    width: 30%;
+    text-align: center;
+    margin: 28px 28px;
+}
+.ii-icon{
+    display: flex;
+    width: 50px;
+    height: 50px;
+}
+.ii-title{
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: white;
+}
+.ii-description{
+    color: white;
+}
+.is-items-container{
+    display: flex;
+}

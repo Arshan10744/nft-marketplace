@@ -1,0 +1,30 @@
+.user-pic{
+    width: 20px;
+    height: 20px;
+    margin-top: 15px;
+}
+.wallet-pic{
+    width: 20px;
+    height: 20px;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.nav-logo{
+    letter-spacing: 3px;
+    font-weight: 600;
+    font-size: 30px;
+    margin-right: 80px;
+    
+}
+.nav-content{
+    font-size: 22px;
+    margin-left: 50px;
+   
+}
+.dropDown-elements{
+    font-weight: 600;
+    font-size: 20px;
+}
+.logout{
+    margin-top: 7px;
+}

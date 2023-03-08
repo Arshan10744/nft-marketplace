@@ -1,0 +1,65 @@
+.Trending_Card{
+    margin-left: 65px;
+    transition: 1s;
+    display: flex;
+}
+.Trending_Card:hover{
+    transform:scale(1.2);
+    z-index: 2;
+}
+.card-name{
+    width: 18rem;
+    height: 15px;
+    font-family:'Courier New', Courier, monospace;
+    text-align:center;
+    font-size: 30px;
+    padding-right: 35px;
+}
+.card-price{
+    
+    font-family:'Courier New', Courier, monospace;
+    font-size: 15px;
+    border: none;
+}
+.card-category{
+    margin-left: 60px;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 15px;
+}
+.cart-button{
+    padding: 5px 5px;
+font-size: 14px;
+font-weight: 600;
+border-radius: 60px;
+width: 120px;
+cursor: pointer;
+background-color: #2f80ed;
+color: white;
+transition: 1s;
+}
+.cart-button:hover{
+    background-color: purple;
+}
+.bid-button{
+    padding: 5px 5px;
+    font-size: 14px;
+    font-weight: 600;
+    border-radius: 40px;
+    width: 70px;
+    cursor: pointer;
+    background-color: #2f80ed;
+    color: white;
+    margin-left: 50px;
+    transition: 1s;
+    }
+    .bid-button:hover{
+        background-color: purple;
+    }
+    .trending-heading{
+        font-size: 40px;
+    }
+    .T-NFT-heading{
+        font-size: 40px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }

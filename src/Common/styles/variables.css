@@ -1,0 +1,12 @@
+:root{
+    --black: #050505;
+    --white: #ffffff; 
+    --text-gradient-bg: rgba(105, 234, 203);
+    --text-gradient-1: linear-gradient(
+      90deg,
+      rgba(105, 234, 203, 1) 0%,
+      rgba(234, 204, 248, 1) 50%,
+      rgba(102, 84, 241, 1) 100%
+
+    );
+}

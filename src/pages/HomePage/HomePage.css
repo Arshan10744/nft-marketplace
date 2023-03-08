@@ -1,0 +1,52 @@
+.contain{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.text1{
+    position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 80px;
+  font-weight: 600;
+
+}
+.text2{
+    position: absolute;
+    top: 42%;
+    left: 25%;
+    font-size: 40px;
+    font-weight: 600;
+}
+.text3{
+    position: absolute;
+    top: 55%;
+    left: 22%;
+    font-size: 40px;
+    font-weight: 600;
+}
+.cover-img{
+    opacity: 0.1;
+    width: 100vw;
+    height: 670px;
+}
+.home-btn{
+    position: absolute;
+    padding: 5px 5px;
+font-size: 34px;
+font-weight: 600;
+border-radius: 60px;
+width: 320px;
+cursor: pointer;
+background-color: #2f80ed;
+color: white;
+transition: 1s;
+top: 70%;
+left: 40%;
+font-family:Arial, Helvetica, sans-serif;
+}
+.home-btn:hover{
+    background-color: purple;
+}
