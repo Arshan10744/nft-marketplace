@@ -15,7 +15,7 @@ const Contact = () => {
           <i class="fas fa-map-marker-alt"></i>
           <div class="topic">Address</div>
           <div class="text-one">Surkhet, NP12</div>
-          <div class="text-two">Birendranagar 06</div>
+          <div class="text-two">Bihoruuuu</div>
         </div>
         <div class="phone details">
           <i class="fas fa-phone-alt"></i>
